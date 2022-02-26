@@ -1,2 +1,2 @@
-# tutoriais_python
-Diversos testes, programas e séries utilizados em tutoriais
+# Python Tutorials
+Several codes and tests and stuff about python
